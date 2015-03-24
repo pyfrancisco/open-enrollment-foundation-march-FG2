@@ -1,2 +1,2 @@
 # open-enrollment-foundation-march-FG2
-Sample repository for git training
+This is a sample repository for git training
